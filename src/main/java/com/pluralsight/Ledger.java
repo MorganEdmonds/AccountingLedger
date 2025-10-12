@@ -20,11 +20,11 @@ public class Ledger {
             P- Payments
             R- reports
             
-            """;//
+              """;//
 
-          System.out.print("All");
-          System.out.print("Deposit");
-          System.out.print("Payments");
-          System.out.print("See Reports");
+          //System.out.print("All");
+          //System.out.print("Deposit");
+         // System.out.print("Payments");
+         // System.out.print("See Reports");
     }
 }

@@ -20,15 +20,24 @@ public class HomeScreen {
                 
                 """;//
 
+        System.out.println(HomeMenu);
 
 
 
-        System.out.print("Add Deposit");
-        System.out.print("Make payment");
-        System.out.print("Ledger Screen");
-        System.out.print("Exit");
+
+        System.out.print("Please enter a option: ");
+        String choice = scanner.nextLine().toUpperCase();
+
+        switch (choice){
+
+            case 
+        }
+
+        //System.out.print("Add Deposit");
+        //System.out.print("Make payment");
+        //System.out.print("Ledger Screen");
+        //System.out.print("Exit");
     }
-
 }
-                
-                
+
+
