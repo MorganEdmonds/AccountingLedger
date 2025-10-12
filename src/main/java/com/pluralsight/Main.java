@@ -5,11 +5,13 @@ package com.pluralsight;
 public class Main {
     public static void main(String[] args) {
 
+    public static String promptForString(String prompt){
+        System.out.print("")
+        }
+
         //Start of app
 
-
-
-
+       //
 
     }
 }
