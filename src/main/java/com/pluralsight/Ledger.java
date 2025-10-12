@@ -21,7 +21,7 @@ public class Ledger {
             R- reports
             
             """;//
-        
+
           System.out.print("All");
           System.out.print("Deposit");
           System.out.print("Payments");

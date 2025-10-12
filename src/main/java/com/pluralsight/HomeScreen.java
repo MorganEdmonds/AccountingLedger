@@ -8,6 +8,7 @@ public class HomeScreen {
 
         // create HOME MENU
         // ask user for debit information
+        //Loop through home menu and output menu option based on users input
 
 
         String HomeMenu = """
@@ -18,6 +19,9 @@ public class HomeScreen {
                 X- Exit   
                 
                 """;//
+
+
+
 
         System.out.print("Add Deposit");
         System.out.print("Make payment");
